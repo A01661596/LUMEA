@@ -81,3 +81,7 @@ This project was developed as part of a biomedical engineering thesis project by
 
 ## License
 This repository is distributed under an academic, non-commercial use license. For inquiries, please contact the authors.
+
+## Credits
+This code was made with the assistance of the OpenAI ChatGPT version 4.0, year 2025
+The toolkit Neurokit2 by Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689-1696 was also used.
