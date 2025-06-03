@@ -1,3 +1,5 @@
+# Código adaptado de Ravivarman Rajendiran
+
 # -*- coding:utf-8 -*-
 
 from time import sleep
